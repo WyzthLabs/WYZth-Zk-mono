@@ -1,0 +1,21 @@
+.wyzth_zkevm-logo {
+  display: none;
+}
+
+[data-theme='dark'] .wyzth_zkevm-logo {
+  display: inline;
+}
+
+[data-theme='dark'] .wyzth_zkevm-light-logo {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  [data-theme='dark'] .wyzth_zkevm-logo {
+    display: none;
+  }
+
+  [data-theme='light'] .wyzth_zkevm-light-logo {
+    display: none;
+  }
+}

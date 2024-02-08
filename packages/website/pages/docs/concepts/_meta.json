@@ -1,0 +1,17 @@
+{
+  "overview": {
+    "title": "Overview"
+  },
+  "proposing": {
+    "title": "Proposing WYzth_zkevm blocks"
+  },
+  "proving": {
+    "title": "Proving WYzth_zkevm blocks"
+  },
+  "bridging": {
+    "title": "Bridging"
+  },
+  "wyzth_zkevm-nodes": {
+    "title": "WYzth_zkevm nodes"
+  }
+}
